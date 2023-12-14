@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Flatpack-Restaurant/static/css/main.a8c20db6.css",
+    "main.css": "/React-Flatpack-Restaurant/static/css/main.4b0ea4d4.css",
     "main.js": "/React-Flatpack-Restaurant/static/js/main.d5e44ee0.js",
     "static/js/787.bb9bbf69.chunk.js": "/React-Flatpack-Restaurant/static/js/787.bb9bbf69.chunk.js",
     "static/media/background-1.jpg": "/React-Flatpack-Restaurant/static/media/background-1.b617d70f70aaeff1043c.jpg",
     "index.html": "/React-Flatpack-Restaurant/index.html",
-    "main.a8c20db6.css.map": "/React-Flatpack-Restaurant/static/css/main.a8c20db6.css.map",
+    "main.4b0ea4d4.css.map": "/React-Flatpack-Restaurant/static/css/main.4b0ea4d4.css.map",
     "main.d5e44ee0.js.map": "/React-Flatpack-Restaurant/static/js/main.d5e44ee0.js.map",
     "787.bb9bbf69.chunk.js.map": "/React-Flatpack-Restaurant/static/js/787.bb9bbf69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c20db6.css",
+    "static/css/main.4b0ea4d4.css",
     "static/js/main.d5e44ee0.js"
   ]
 }
