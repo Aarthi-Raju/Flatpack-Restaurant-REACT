@@ -1,12 +1,19 @@
 nav{
     background-color: white;
-    padding: 30px 100px;
+    color: white;
+    padding: 20px 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40rem;   
+    /* display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+    align-items: center;
+    border: 2px black solid; */
+    gap: 35rem;   
+    /* position: fixed; */
     position: fixed;
-    top: 0; 
+    top: 0px; 
     width: 100%;
 }
 .nav-menu-links,.nav-icons{
@@ -32,4 +39,10 @@ nav{
 .fa-brands{
     font-size: 22px;
     color: black;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
