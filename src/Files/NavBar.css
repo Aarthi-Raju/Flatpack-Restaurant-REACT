@@ -5,15 +5,9 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    justify-content: space-between;
-    align-items: center;
-    border: 2px black solid; */
-    gap: 35rem;   
-    /* position: fixed; */
     position: fixed;
-    top: 0px; 
+    top: 0px;
+    gap: 35rem;   
     width: 100%;
 }
 .nav-menu-links,.nav-icons{

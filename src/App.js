@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './Files/NavBar';
 import LandingPage from './Files/LandingPage';
 import Services from './Files/Services';
+import Branding from './Files/Branding';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <NavBar />
       <LandingPage />
       <Services />
+      <Branding />
     </div>
   );
 }

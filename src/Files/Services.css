@@ -20,7 +20,7 @@
     font-size: 22px;
     font-weight: 400;
 }
-.heading{
+.services .heading{
     display: flex;
     flex-direction: row;
     justify-content: center;
