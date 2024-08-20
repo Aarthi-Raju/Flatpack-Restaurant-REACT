@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Flatpack-Restaurant/static/css/main.35f97920.css",
-    "main.js": "/React-Flatpack-Restaurant/static/js/main.6e275b7e.js",
-    "static/js/787.bb9bbf69.chunk.js": "/React-Flatpack-Restaurant/static/js/787.bb9bbf69.chunk.js",
-    "static/media/background-1.jpg": "/React-Flatpack-Restaurant/static/media/background-1.b617d70f70aaeff1043c.jpg",
-    "index.html": "/React-Flatpack-Restaurant/index.html",
-    "main.35f97920.css.map": "/React-Flatpack-Restaurant/static/css/main.35f97920.css.map",
-    "main.6e275b7e.js.map": "/React-Flatpack-Restaurant/static/js/main.6e275b7e.js.map",
-    "787.bb9bbf69.chunk.js.map": "/React-Flatpack-Restaurant/static/js/787.bb9bbf69.chunk.js.map"
+    "main.css": "/Flatpack-Restaurant-REACT/static/css/main.94260e7f.css",
+    "main.js": "/Flatpack-Restaurant-REACT/static/js/main.d08b6c1a.js",
+    "static/js/787.bb9bbf69.chunk.js": "/Flatpack-Restaurant-REACT/static/js/787.bb9bbf69.chunk.js",
+    "static/media/background-1.jpg": "/Flatpack-Restaurant-REACT/static/media/background-1.b617d70f70aaeff1043c.jpg",
+    "index.html": "/Flatpack-Restaurant-REACT/index.html",
+    "main.94260e7f.css.map": "/Flatpack-Restaurant-REACT/static/css/main.94260e7f.css.map",
+    "main.d08b6c1a.js.map": "/Flatpack-Restaurant-REACT/static/js/main.d08b6c1a.js.map",
+    "787.bb9bbf69.chunk.js.map": "/Flatpack-Restaurant-REACT/static/js/787.bb9bbf69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35f97920.css",
-    "static/js/main.6e275b7e.js"
+    "static/css/main.94260e7f.css",
+    "static/js/main.d08b6c1a.js"
   ]
 }
