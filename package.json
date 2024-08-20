@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Aarthi-Raju.github.io/React-Flatpack-Restaurant",
+  "homepage": "https://Aarthi-Raju.github.io/Flatpack-Restaurant-REACT",
   "name": "flatpackrestaurant",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
